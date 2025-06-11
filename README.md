@@ -1,5 +1,5 @@
 <img src="image/logo.png" alt="" width="250">
-<p>Projeto integrador desenvolvido em grupo de um site de confeitaria Mão de moça.</p>
+<p>Projeto integrador desenvolvido em grupo pela empresa Vortex de um site de confeitaria Mão de moça.</p>
 <p align="center">
  <a href="#objetivo">Objetivo</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
